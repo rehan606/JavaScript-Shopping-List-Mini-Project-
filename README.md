@@ -22,8 +22,8 @@
 
 <h2>🎨Features:</h2>
 <ul>
-  <h4>Item Input:</h4>
-  <li> Users can input the name of an item and its amount.</li>
+  
+  <li> <b>Item Input:</b>  Users can input the name of an item and its amount.</li>
   
   <li> <b>Add Button:</b> Items can be added to a list by clicking the "Add Item" button.</li>  
   
