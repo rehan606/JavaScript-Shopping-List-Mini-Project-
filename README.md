@@ -6,25 +6,39 @@
 </p> 
 <hr>
 
+
+<h2 id="layout">🎨Project Layout</h2>
+
+<p align="center">
+<span>Normal Html Css Output</span>
+<br>
+<img src="https://github.com/rehan606/JavaScript-Shopping-List-Mini-Project-/blob/main/Project-image/Normal.png?raw=true" border="0" width="400px">
+<br>
+<span>JavaScript final Output</span>
+<br>
+<img src="https://github.com/rehan606/JavaScript-Shopping-List-Mini-Project-/blob/main/Project-image/Output.png?raw=true" border="0" width="400px">
+
+</p>
+
 <h2>🎨Features:</h2>
 <ul>
   <h4>Item Input:</h4>
   <li> Users can input the name of an item and its amount.</li>
   
-  <h4>Add Button:</h4>
-  <li> Items can be added to a list by clicking the "Add Item" button.</li>
+ 
+  <li> <h4>Add Button:</h4> Items can be added to a list by clicking the "Add Item" button.</li>
   
-  <h4>Dynamic List:</h4>
-  <li> The added items are displayed in a list below the input fields.</li>
   
-  <h4>Total Amount Calculation:</h4>
-  <li> Automatically updates the total amount of all items in the list.</li>
+  <li>\<h4>Dynamic List:</h4> The added items are displayed in a list below the input fields.</li>
   
-  <h4>Total Items Count: </h4>
-  <li>Tracks the number of items added and displays the total.</li>
   
-  <h4>Input Validation:</h4>
-  <li> Ensures valid item names and amounts before adding them to the list.</li>
+  <li> <h4>Total Amount Calculation:</h4> Automatically updates the total amount of all items in the list.</li>
+  
+  
+  <li> <h4>Total Items Count: </h4> Tracks the number of items added and displays the total.</li>
+  
+  
+  <li> <h4>Input Validation:</h4> Ensures valid item names and amounts before adding them to the list.</li>
 </ul>
 
 <h2 id="technologies">💻 Technologies</h2>
@@ -35,12 +49,4 @@ Frontend:
 - Javascript
 - Javascript DOM Event
 
-<h2 id="layout">🎨Project Layout</h2>
 
-<p align="center">
-<span>Normal Html Css Output</span>
-<img src="https://github.com/rehan606/JavaScript-Shopping-List-Mini-Project-/blob/main/Project-image/Normal.png?raw=true" border="0" width="400px">
-<span>JavaScript final Output</span>
-<img src="https://github.com/rehan606/JavaScript-Shopping-List-Mini-Project-/blob/main/Project-image/Output.png?raw=true" border="0" width="400px">
-
-</p>
