@@ -25,20 +25,15 @@
   <h4>Item Input:</h4>
   <li> Users can input the name of an item and its amount.</li>
   
- 
-  <li> <h4>Add Button:</h4> Items can be added to a list by clicking the "Add Item" button.</li>
+  <li> <b>Add Button:</b> Items can be added to a list by clicking the "Add Item" button.</li>  
   
+  <li> <b>Dynamic List:</b> The added items are displayed in a list below the input fields.</li>
+   
+  <li> <b>Total Amount Calculation:</b> Automatically updates the total amount of all items in the list.</li>  
   
-  <li>\<h4>Dynamic List:</h4> The added items are displayed in a list below the input fields.</li>
+  <li> <b>Total Items Count: </b> Tracks the number of items added and displays the total.</li>  
   
-  
-  <li> <h4>Total Amount Calculation:</h4> Automatically updates the total amount of all items in the list.</li>
-  
-  
-  <li> <h4>Total Items Count: </h4> Tracks the number of items added and displays the total.</li>
-  
-  
-  <li> <h4>Input Validation:</h4> Ensures valid item names and amounts before adding them to the list.</li>
+  <li> <b>Input Validation:</b> Ensures valid item names and amounts before adding them to the list.</li>
 </ul>
 
 <h2 id="technologies">💻 Technologies</h2>
