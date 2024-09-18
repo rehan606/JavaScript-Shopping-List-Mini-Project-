@@ -44,4 +44,3 @@ Frontend:
 - Javascript
 - Javascript DOM Event
 
-
